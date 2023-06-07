@@ -17,7 +17,7 @@ int binary_tree_is_full(const binary_tree_t *tree)
 
 /**
  * check_full - a function that check the fullness of a binary tree
- * @tree: a pointer to the root node of the tree to measure the height.
+ * @tree: a pointer to the root node of the tree to check.
  *
  * Return: 1 otherwise 0 if tree is NULL
  */
