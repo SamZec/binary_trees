@@ -8,7 +8,7 @@ bst_t *bst_remove(bst_t *root, int value);
 
 /**
  * avl_remove - a function that removes a node from an AVL tree
- * @tree: pointer to the root node of the tree for removing a node
+ * @root: pointer to the root node of the tree for removing a node
  * @value: the value to remove in the tree
  *
  * Return: pointer to the new root node of the tree after
